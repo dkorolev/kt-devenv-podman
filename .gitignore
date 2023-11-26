@@ -1,0 +1,11 @@
+.devenv_podman_container_id
+
+.gradle
+.kotlin
+build
+
+.vim*
+.exrc
+*.swp
+
+.bash_history
